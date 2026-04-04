@@ -1,0 +1,12 @@
+[
+  {
+    "name": "newpipe",
+    "original": "newpipe.net",
+    "fake": ["newpipe.app", "newpipe.com"]
+  },
+  {
+    "name": "e-devlet",
+    "original": "turkiye.gov.tr",
+    "fake": ["mdevlet.com", "edevlet.com", "e-devlet.com"]
+  }
+]
