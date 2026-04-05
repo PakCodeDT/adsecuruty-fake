@@ -5,7 +5,7 @@ Sürüm 1.2
 
 GİRİŞ
 Bu lisans (PakCodeDT FSCSAL — Free Semi-Copyleft Source Available License), yukarıda belirtilen telif hakkı sahibi tarafından geliştirilen yazılımın kullanım, kopyalama, değiştirme ve dağıtım koşullarını belirler. Bu yazılımı kullanan, kopyalayan, fork eden veya başka bir şekilde edinen her kişi ve kuruluş, aşağıdaki maddeleri kabul etmiş sayılır.
-1, 2, 3 ve 4. maddeler bu lisansın copyleft çekirdeğini oluşturur ve türev çalışmalarda değiştirilemez biçimde korunmak zorundadır.
+1, 2, 3, 4 ve 5. maddeler bu lisansın copyleft çekirdeğini oluşturur ve türev çalışmalarda değiştirilemez biçimde korunmak zorundadır.
 
 MADDE 1 — AÇIK KAYNAK  [Copyleft Çekirdeği]
 Bu yazılımın tüm kaynak kodu —kritik bileşenler ve güvenlikle ilgili kısımlar dahil olmak üzere— kamuya açık biçimde yayımlanmıştır. Hiçbir bileşen kasıtlı olarak gizlenemez, karartılamaz (obfuscate) veya erişilemez hâle getirilemez. Kaynak kodun bütününe lisans deposu aracılığıyla özgürce erişilebilir.
