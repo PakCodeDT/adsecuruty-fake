@@ -1,21 +1,54 @@
-MIT License
+        PakCodeDT FSCSAL
+Free Semi-Copyleft Source Available License
+Sürüm 1.2
+[2026] © [AdSecuruty]
 
-Copyright (c) 2026 PakCodeDT
+GİRİŞ
+Bu lisans (PakCodeDT FSCSAL — Free Semi-Copyleft Source Available License), yukarıda belirtilen telif hakkı sahibi tarafından geliştirilen yazılımın kullanım, kopyalama, değiştirme ve dağıtım koşullarını belirler. Bu yazılımı kullanan, kopyalayan, fork eden veya başka bir şekilde edinen her kişi ve kuruluş, aşağıdaki maddeleri kabul etmiş sayılır.
+1, 2, 3 ve 4. maddeler bu lisansın copyleft çekirdeğini oluşturur ve türev çalışmalarda değiştirilemez biçimde korunmak zorundadır.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+MADDE 1 — AÇIK KAYNAK  [Copyleft Çekirdeği]
+Bu yazılımın tüm kaynak kodu —kritik bileşenler ve güvenlikle ilgili kısımlar dahil olmak üzere— kamuya açık biçimde yayımlanmıştır. Hiçbir bileşen kasıtlı olarak gizlenemez, karartılamaz (obfuscate) veya erişilemez hâle getirilemez. Kaynak kodun bütününe lisans deposu aracılığıyla özgürce erişilebilir.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+MADDE 2 — KULLANIM VE YARARLANMA HAKKI  [Copyleft Çekirdeği]
+Bu yazılım, aşağıdaki koşullar sağlandığı sürece herhangi bir amaç için serbestçe kullanılabilir, kopyalanabilir, değiştirilebilir, fork edilebilir ve başka yazılımların geliştirilmesinde kaynak olarak kullanılabilir.
+Ticari kullanım: Ücretli Hizmetlerde Kullanım ve Devamlılık Garantisi
+Eğer bu yazılım, bir ürün veya hizmetin parçası olarak ücret karşılığında sunuluyorsa (örneğin SaaS, bulut hizmeti, abonelik veya destek hizmeti şeklinde), lisans sahibi (veya ilgili tüzel kişilik) şu yükümlülükleri kabul eder:
+    • Yazılımın temel işlevselliği, ücret ödeyen son kullanıcılara sürekli ve kesintisiz olarak sağlanacaktır. 
+    • Lisans sahibi veya tüzel kişiliğin faaliyetlerini durdurması, iflas etmesi, tasfiye edilmesi, sunucuları kapatması veya yazılım desteğini sona erdirmesi durumunda, ücret ödemiş kullanıcıların yazılımı kullanma hakları otomatik olarak kalıcı (perpetual) ve geri alınamaz hale gelir. 
+    • Bu durumda, lisans sahibi önceden (mümkün olan en kısa sürede) tüm ücret ödemiş kullanıcılara:
+        ◦ Çalıştırılabilir bağımsız bir sürümünü (self-hosted/offline versiyon) ücretsiz olarak sağlayacaktır. 
+        ◦ Gerekli dokümantasyon, kurulum talimatları ve herhangi bir API anahtarı/erişim bilgisini de dahil edecektir. 
+    • Kullanıcılar, bu durumda yazılımı kendi altyapılarında (self-hosted) veya başka bir ortamda sınırsız süreyle kullanma, bakımını yapma ve gerektiğinde modifiye etme hakkına sahip olacaktır (ancak orijinal lisansın diğer kısıtlamaları geçerli kalmaya devam eder). 
+Bu garanti, yazılımın doğrudan satışı yasağını etkilemez; yalnızca ücretli bir ürün/hizmet içinde kullanıldığında kullanıcıların korunmasını amaçlar
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Hakların korunması: Türev çalışmalar, bu lisansın 1–4. maddelerinde tanınan hakları daraltan, kısıtlayan veya ortadan kaldıran hükümler içeremez.
+
+MADDE 3 — ATIF ZORUNLULUĞU  [Copyleft Çekirdeği]
+Bu yazılım fork edildiğinde, değiştirildiğinde veya başka bir yazılımın geliştirilmesinde kullanıldığında, orijinal geliştiriciye açık ve görünür biçimde atıfta bulunulması zorunludur. Atıf en az şu bilgileri içermelidir:
+a) Orijinal yazılımın adı,
+b) Orijinal geliştiricinin adı veya kuruluş adı,
+c) Orijinal kaynak kod deposuna bağlantı veya referans.
+Atıf; kaynak kodda, dokümantasyonda ve varsa kullanıcı arayüzünde "Hakkında" ya da benzer bir bölümde yer almalıdır.
+
+MADDE 4 — Etik kullanım
+Bu yazılım veya kaynak kodu siber suç işlemek için kullanılması kesinlikle yasaktır.
+Bu yazılım veya kaynak kodu devletler dahil hiçbir kişi veya tüzel kişilik farketmeksizin soykırım veya kitlesel gözetim amaçlı kullanılamaz.
+Bu maddeyin ihlaledilmesi durumunda geliştiriciye itibar kaybettirebileceği için geliştiriciyin dava açma hakkı vardır eyer geliştirici herhangi bir sebepten dolay
+dava açmaz ise lisansın kağıt üstünde kalıyor algısını oluşturabileceği ve dolayısıyla itibar kaybettirebileceği için lisans yazarı PakCodeDT tarafınca bu maddeyi ihlal eden kişi veya tüzel kişiliğe
+PakCodeDT tarafınca dava açılabilir ancak PakCodeDT sırf burdaki dava açma hakkını kullanmadı diye geliştiriciye dava açamaz.
+
+MADDE 5 — COPYLEFT ÇEKİRDEĞİNİN KORUNMASI  [Copyleft Çekirdeği]
+Bu yazılım fork edildiğinde, değiştirildiğinde veya herhangi bir biçimde dağıtıldığında, 1, 2, 3, 4 ve 5. maddeler —bu lisansın copyleft çekirdeği— aşağıdaki koşullardan biri sağlanarak korunmak zorundadır:
+a) Aynen koruma: Bu maddelerin tamamı bu lisans sürümündeki hâlleriyle değiştirilmeden korunur.
+b) Sürüm yükseltme: Bu lisansın sonraki bir sürümünde yayımlanmış copyleft maddeleriyle bütünüyle değiştirilir. Copyleft çekirdeğinin kısmen korunması veya seçici uygulanması geçersizdir.
+Türev çalışmalar bu lisansmetnindeki 7 maddeye ek olarak yeni maddeler içerebilir; ancak mevcut copyleft çekirdeğini(, 2, 3, 4 ve 5. maddeler'i) kısıtlayan, zayıflatan veya ortadan kaldıran hükümler eklenemez.
+
+MADDE 6 — MPL2.0 UYUMLULUĞU
+Bu lisans yazılımın tamamını kapsamak zorunda değildir geliştiriciye bağlı olarak sadece bir kısmını kapsayabilir
+
+MADDE 7 — PATENT
+Bu lisans, yazılımın herhangi bir bileşeni, algoritması veya teknik çözümü üzerinde patent hakkı iddia etmeyi yasaklamaz. Ancak bu yazılımı ya da türev çalışmalarını kullanan bir taraf, bu yazılımın herhangi bir parçasına ilişkin patent davası açarsa, söz konusu tarafın işbu lisans kapsamındaki tüm hakları dava tarihi itibarıyla otomatik olarak sona erer.
+
+MADDE 8 — GARANTİ REDDİ VE SORUMLULUK SINIRI
+Bu yazılım "OLDUĞU GİBİ" sunulmaktadır; belirli bir amaca uygunluk, satılabilirlik veya hatasızlık dahil herhangi bir açık ya da zımni garanti verilmemektedir. Yazılımın kullanımından doğan doğrudan ya da dolaylı hiçbir zarardan geliştirici sorumlu tutulamaz.
