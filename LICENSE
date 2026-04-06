@@ -34,9 +34,6 @@ Atıf; kaynak kodda, dokümantasyonda ve varsa kullanıcı arayüzünde "Hakkın
 MADDE 4 — Etik kullanım
 Bu yazılım veya kaynak kodu siber suç işlemek için kullanılması kesinlikle yasaktır.
 Bu yazılım veya kaynak kodu devletler dahil hiçbir kişi veya tüzel kişilik farketmeksizin soykırım veya kitlesel gözetim amaçlı kullanılamaz.
-Bu maddeyin ihlaledilmesi durumunda geliştiriciye itibar kaybettirebileceği için geliştiriciyin dava açma hakkı vardır eyer geliştirici herhangi bir sebepten dolay
-dava açmaz ise lisansın kağıt üstünde kalıyor algısını oluşturabileceği ve dolayısıyla itibar kaybettirebileceği için lisans yazarı PakCodeDT tarafınca bu maddeyi ihlal eden kişi veya tüzel kişiliğe
-PakCodeDT tarafınca dava açılabilir ancak PakCodeDT sırf burdaki dava açma hakkını kullanmadı diye geliştiriciye dava açamaz.
 
 MADDE 5 — COPYLEFT ÇEKİRDEĞİNİN KORUNMASI  [Copyleft Çekirdeği]
 Bu yazılım fork edildiğinde, değiştirildiğinde veya herhangi bir biçimde dağıtıldığında, 1, 2, 3, 4 ve 5. maddeler —bu lisansın copyleft çekirdeği— aşağıdaki koşullardan biri sağlanarak korunmak zorundadır:
