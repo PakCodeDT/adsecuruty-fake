@@ -8,5 +8,11 @@
     "name": "e-devlet",
     "original": "turkiye.gov.tr",
     "fake": ["mdevlet.com", "edevlet.com", "e-devlet.com"]
+  },
+  {
+    "name": "OpenClaw",
+    "original": "openclaw.ai",
+    "fake": ["openclaw.io", "open-claw.org", "openclaws.ai", "openclaw.im", "openclawdoc.com"]
   }
+
 ]
